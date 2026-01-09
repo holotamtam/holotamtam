@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm holotamtam
+# Hi there! 👋 I'm Daniel Allan N. Gozon
 
 ## 🚀 Full-Stack Developer
 
