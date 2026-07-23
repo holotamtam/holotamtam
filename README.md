@@ -58,13 +58,6 @@ I build dynamic web applications and enjoy solving complex problems with code.
 
 <br>
 
-## Activity
-
-<img src="https://ghchart.rshah.org/D14836/holotamtam" alt="Contribution graph" width="720">
-
-<br>
-<br>
-
 ## Currently Learning
 
 Always picking up new languages and frameworks to stay current in the software development world.
